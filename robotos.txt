@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.dentalceramicimplants.com/sitemap.xml
+Sitemap: https://dentalceramicimplants.com/sitemap.xml
